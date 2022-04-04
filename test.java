@@ -34,5 +34,18 @@ public class test {
 		Store store = new Store();
 		store.purchase();
 	}
+	@Test
+	public void Jsontest()
+	{
+		jsonadmin jsonadmin = new jsonadmin();
+		jsonadmin.printjson();
+	}
+	@Test
+	public void returnJson()
+	{
+		returnjson returnjson = new returnjson();
+		
+		returnjson.returnJson();
+	}
 
 }
