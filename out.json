@@ -1,0 +1,4 @@
+{"name":"Shotgun","price":150.0,"category":"Weapon","quanity":1,"damage":1,"inStock":500}
+{"name":"Sword","price":220.0,"category":"Weapon","quanity":1,"damage":4,"inStock":500}
+{"name":"Shield","price":600.0,"category":"Armor","quanity":2,"damage":35,"inStock":500}
+{"name":"Helmet","price":400.0,"category":"Armor","quanity":1,"damage":20,"inStock":500}
